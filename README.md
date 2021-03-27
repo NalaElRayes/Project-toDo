@@ -1,2 +1,2 @@
 # Project-toDo
- Frontend project
+ Frontend project. My introduction to Html, Css and Vanilla Javascript. 
